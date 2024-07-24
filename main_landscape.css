@@ -42,15 +42,15 @@ body {
 } */
 
 .pagetop{
-  position:relative;
+  position:absolute;
   display: block;
-  -webkit-transform: translate(0%,-50%);
+  /* -webkit-transform: translate(0%,-50%);
   -ms-transform: translate(0%,-50%);
   -moz-transform: translate(0%,-50%);
   -o-transform: translate(0%,-50%);
-  transform: translate(0%,-50%);
+  transform: translate(0%,-50%); */
   /* background-color: #FFFFFF; */
-  top: 50%;
+  top: 30%;
   display: inline-table;
 
 }
