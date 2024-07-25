@@ -195,6 +195,7 @@ white-space:normal;
     font-size: calc(1.3rem + 0.5vw);
   }
   #scratcher-box {
+    position:absolute;
     scale: 0.8;
     left: 40%;    
   }
