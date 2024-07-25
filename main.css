@@ -194,9 +194,13 @@ white-space:normal;
   .pagetop h3 {
     font-size: calc(1.3rem + 0.5vw);
   }
+  #mainbody {
+    position: inherit;
+  }
   #scratcher-box {
     position:absolute;
-    scale: 0.8;
+    scale: 0.8; 
+    top: 65%;
     left: 40%;    
   }
 } 
