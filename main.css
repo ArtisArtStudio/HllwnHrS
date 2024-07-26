@@ -104,7 +104,7 @@ white-space:normal;
   line-height: 8vh;
 }
 #or{
-  line-height: 6vh;
+  line-height: 5vh;
   font-size: 6vh;
 }
 #ggirl {
@@ -155,7 +155,7 @@ white-space:normal;
     font-size: calc(2rem + 1vw);
   }
   .pagetop h3 {
-    font-size: calc(1.3rem + 0.5vw);
+    font-size: calc(1.5rem + 0.5vw);
   }
 } 
 @media (min-width: 1025px){ 
