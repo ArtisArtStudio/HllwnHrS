@@ -223,13 +223,13 @@ white-space:normal;
     top: 70%;
   
   }
-  #t1 {
+  /* #t1 {
     -webkit-transform:  translate(-5%,-5%) scale(0.7, 0.7);
     -ms-transform:translate(-5%,-5%) scale(0.7, 0.7);
     -moz-transform:translate(-5%,-5%) scale(0.7, 0.7);
     -o-transform:translate(-5%,-5%) scale(0.7, 0.7);
     transform: translate(-5%,-5%) scale(0.7, 0.7);
-  }
+  } */
  
   .pagetop h1 {
     font-size: calc(4rem + 2vw);
