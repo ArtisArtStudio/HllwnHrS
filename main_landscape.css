@@ -163,7 +163,7 @@ td#or {
 
   }
 }
-@media only screen and (max-height: 400px), (min-height: 352px) and (min-width: 671px) { 
+@media only screen and (min-height: 360px) and (min-width: 671px) { 
   .pagetop h1 {
     font-size: calc(4rem + 0.8vw);
   }
