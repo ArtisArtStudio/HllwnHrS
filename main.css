@@ -213,14 +213,18 @@ white-space:normal;
   #boy {
     line-height: 3vh !important;
   }
-
+ #or {
+    font-size: calc(3rem + 3vw);
+    line-height: 4vh !important;
+  }
   #ggirl{
     line-height: 4vh !important;
   }
   #scratcher-box {
     position:absolute;
-    scale: 0.9; 
+    scale: 1; 
     top: 75%;
+  
   }
   #t1 {
     -webkit-transform:  translateX(-10%) scale(0.7, 0.7);
@@ -229,9 +233,7 @@ white-space:normal;
     -o-transform:translateX(-10%) scale(0.7, 0.7);
     transform: translateX(-10%) scale(0.7, 0.7);
   }
-  #or {
-    font-size: calc(3rem + 3vw);
-  }
+ 
   .pagetop h1 {
     font-size: calc(4rem + 2vw);
   }
