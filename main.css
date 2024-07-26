@@ -132,10 +132,10 @@ white-space:normal;
 
 @media (max-width: 320px) { 
   .pagetop h1 {
-    font-size: calc(3rem + 1.8vw);
+    font-size: calc(3rem + 1.5vw);
   }
   .pagetop h3 {
-    font-size: calc(1.3rem + 0.5vw);
+    font-size: calc(1.2rem + 0.5vw);
   }
   .pagetop h4 {
     font-size: calc(0.7rem + 0.6vw) ;
@@ -145,7 +145,7 @@ white-space:normal;
   }
 
   #ggirl{
-    line-height: 5vh !important;
+    line-height: 4vh !important;
   }
   #scratcher-box {
     position:absolute;
