@@ -90,20 +90,26 @@ white-space:normal;
     text-align: center;
     }
  
-  #reveal {
-    display: block;
-    margin-left: auto;
-      margin-right: auto;
-      width: 100%;
-  }
-  #baby
-  {
-    white-space: normal;
-  }
-    /* #t1 #boy{
- background: url(images/back1.png) no-repeat center center;
- background-size: contain;
-} */
+#reveal {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+#baby
+{
+  white-space: normal;
+}
+#boy{
+  line-height: 8vh;
+}
+#or{
+  line-height: 6vh;
+  font-size: 6vh;
+}
+#girl {
+  line-height: 8vh;
+}
 #t1 {
   width: 350px;
 }
@@ -130,7 +136,7 @@ white-space:normal;
     font-size: calc(0.7rem + 0.6vw) ;
   }
   #scratcher-box {
-    scale: 0.5;
+    scale: 0.8;
     left: 40%;    
   }
   #t1 {
@@ -206,8 +212,8 @@ white-space:normal;
     position:absolute;
     scale: 1; 
     top: 70%;
-    left: 40%;     
   }
+  
 } 
 #scratcher-box canvas {
   cursor: grab;
