@@ -150,7 +150,7 @@ white-space:normal;
     font-size: calc(3rem + 3vw);
   }
   .pagetop h1 {
-    font-size: calc(4rem + 3vw);
+    font-size: calc(4rem + 2vw);
   }
 }
 
@@ -192,7 +192,7 @@ white-space:normal;
     font-size: calc(0.8rem) ;
   }
   .pagetop h1 {
-    font-size: calc(4rem + 2vw);
+    font-size: calc(4rem + 1.8vw);
   }
   #or {
     font-size: calc(2rem + 1vw);
@@ -213,7 +213,7 @@ white-space:normal;
   }
 
   #ggirl{
-    line-height: 5vh !important;
+    line-height: 6vh !important;
   }
   #scratcher-box {
     position:absolute;
