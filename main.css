@@ -214,11 +214,11 @@ white-space:normal;
     line-height: 4vh !important;
   }
  #or {
-    font-size: calc(2rem + 2vw);
-    line-height: 8vh !important;
+    font-size: calc(2rem + 1vw);
+    line-height: 6vh !important;
   }
   #ggirl{
-    line-height: 5vh !important;
+    line-height: 6vh !important;
   }
   #scratcher-box {
     position:absolute;
@@ -227,11 +227,11 @@ white-space:normal;
   
   }
   #t1 {
-    -webkit-transform:  scale(0.7, 0.7);
-    -ms-transform: scale(0.7, 0.7);
-    -moz-transform: scale(0.7, 0.7);
-    -o-transform: scale(0.7, 0.7);
-    transform: scale(0.7, 0.7);
+    -webkit-transform:  translateX(-10%,-5%) scale(0.7, 0.7);
+    -ms-transform:translateX(-10%,-5%) scale(0.7, 0.7);
+    -moz-transform:translateX(-10%,-5%) scale(0.7, 0.7);
+    -o-transform:translateX(-10%,-5%) scale(0.7, 0.7);
+    transform: translateX(-10%,-5%) scale(0.7, 0.7);
   }
  
   .pagetop h1 {
