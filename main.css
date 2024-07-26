@@ -194,7 +194,7 @@ white-space:normal;
   .pagetop h1 {
     font-size: calc(4rem + 2vw);
   }
-  .pagetop h1 #or {
+  #or {
     font-size: calc(2rem + 1vw);
     line-height: 3vh !important;
   }
@@ -214,7 +214,7 @@ white-space:normal;
   }
 
   #girl{
-    line-height: 5vh !important;
+    line-height: 3vh !important;
   }
   #scratcher-box {
     position:absolute;
