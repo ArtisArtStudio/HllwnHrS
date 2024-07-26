@@ -196,7 +196,6 @@ white-space:normal;
   }
   #or {
     font-size: calc(2rem + 1vw);
-    line-height: 3vh !important;
   }
   .pagetop h3 {
     font-size: calc(1.3rem + 0.5vw);
@@ -214,12 +213,12 @@ white-space:normal;
   }
 
   #ggirl{
-    line-height: 3vh !important;
+    line-height: 5vh !important;
   }
   #scratcher-box {
     position:absolute;
     scale: 1; 
-    top: 75%;
+    top: 70%;
   }
   
 } 
