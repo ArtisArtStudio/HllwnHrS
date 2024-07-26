@@ -208,11 +208,11 @@ white-space:normal;
     font-size: calc(0.7rem + 0.6vw) ;
   }
   #boy {
-    line-height: 4vh !important;
+    line-height: 3vh !important;
   }
  
   #ggirl{
-    line-height: 6vh !important;
+    line-height: 4vh !important;
   }
   #scratcher-box {
     position:absolute;
@@ -233,7 +233,7 @@ white-space:normal;
   }
   #or {
     font-size: calc(0.7rem + 1vw);
-    line-height: 8vh !important;
+    line-height: 4vh !important;
   }
 }
 #scratcher-box canvas {
