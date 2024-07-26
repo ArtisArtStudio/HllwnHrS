@@ -201,9 +201,6 @@ white-space:normal;
 } 
 
 @media (max-width: 320px) { 
-  .pagetop h1 {
-    font-size: calc(2rem + 1vw);
-  }
   .pagetop h3 {
     font-size: calc(1.2rem + 0.5vw);
   }
@@ -232,7 +229,7 @@ white-space:normal;
   } */
  
   .pagetop h1 {
-    font-size: calc(4rem + 2vw);
+    font-size: calc(3rem + 2vw);
   }
   #or {
     font-size: calc(0.7rem + 1vw);
