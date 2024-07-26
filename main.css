@@ -107,7 +107,7 @@ white-space:normal;
   line-height: 6vh;
   font-size: 6vh;
 }
-#girl {
+#ggirl {
   line-height: 8vh;
 }
 #t1 {
@@ -213,13 +213,13 @@ white-space:normal;
     line-height: 3vh !important;
   }
 
-  #girl{
+  #ggirl{
     line-height: 3vh !important;
   }
   #scratcher-box {
     position:absolute;
     scale: 1; 
-    top: 80%;
+    top: 75%;
   }
   
 } 
