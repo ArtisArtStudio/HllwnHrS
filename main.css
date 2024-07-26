@@ -131,6 +131,9 @@ white-space:normal;
 /* Styles for mobile phones */ 
 
 @media (max-width: 320px) { 
+  .pagetop h1 {
+    font-size: calc(3rem + 1.8vw);
+  }
   .pagetop h3 {
     font-size: calc(1.3rem + 0.5vw);
   }
@@ -146,8 +149,8 @@ white-space:normal;
   }
   #scratcher-box {
     position:absolute;
-    scale: 1; 
-    top: 70%;
+    scale: 0.9; 
+    top: 75%;
   }
   #t1 {
     -webkit-transform:  translateX(-10%) scale(0.7, 0.7);
