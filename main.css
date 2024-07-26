@@ -135,9 +135,17 @@ white-space:normal;
   .pagetop h4 {
     font-size: calc(0.7rem + 0.6vw) ;
   }
+  #boy {
+    line-height: 3vh !important;
+  }
+
+  #ggirl{
+    line-height: 6vh !important;
+  }
   #scratcher-box {
-    scale: 0.8;
-    left: 40%;    
+    position:absolute;
+    scale: 1; 
+    top: 70%;
   }
   #t1 {
     -webkit-transform:  translateX(-10%) scale(0.7, 0.7);
