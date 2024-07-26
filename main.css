@@ -196,12 +196,17 @@ white-space:normal;
   }
   #mainbody {
     position: inherit;
+      -webkit-transform-origin: top left;
+      -ms-transform-origin: top left;
+      -moz-transform-origin: top left;
+      -o-transform-origin: top left;
+      transform-origin: top left;
   }
   #scratcher-box {
     position:absolute;
     scale: 0.8; 
-    top: 65%;
-    left: 40%;    
+    top: 70%;
+    left: 40%;     
   }
 } 
 #scratcher-box canvas {
