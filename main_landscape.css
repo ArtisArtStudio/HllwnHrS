@@ -158,6 +158,7 @@ td#or {
   #scratcher-box {
     scale: 0.95;
     top: 50%;
+    left:0%;
   }
   #t1
   {
@@ -215,8 +216,9 @@ td#or {
 
   }
   #scratcher-box {
-    scale: 0.95;
+    scale: 0.8;
     top: 50%;
+    left: 5%;
   }
 }
 /* @media (max-height:351px) and (min-height:319){ 
