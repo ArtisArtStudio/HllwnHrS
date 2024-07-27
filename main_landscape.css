@@ -51,7 +51,7 @@ body {
   -o-transform: translate(0%,-50%);
   transform: translate(0%,-50%); */
   /* background-color: #FFFFFF; */
-  top: 20%;
+  top: 10%;
   display: inline-table;
 
 }
@@ -145,7 +145,7 @@ td#or {
 }
 /* Styles for mobile phones */ 
 
-@media only screen and (max-height: 400px), (min-height: 352px) and (max-width: 670px) { 
+@media only screen and (max-height: 400px) and (min-height: 352px) and (max-width: 670px) { 
   .pagetop h1 {
     font-size: calc(3rem + 0.55vw);
   }
@@ -157,7 +157,7 @@ td#or {
   }
   #scratcher-box {
     scale: 0.95;
-    top: 60%;
+    top: 50%;
   }
   #t1
   {
