@@ -214,6 +214,10 @@ td#or {
     width: calc(50% - 10px);
 
   }
+  #scratcher-box {
+    scale: 0.95;
+    top: 50%;
+  }
 }
 /* @media (max-height:351px) and (min-height:319){ 
   
