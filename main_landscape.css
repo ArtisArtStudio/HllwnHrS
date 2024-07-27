@@ -145,7 +145,7 @@ td#or {
 }
 /* Styles for mobile phones */ 
 
-@media only screen and (max-height: 400px), (min-height: 352px) and (max-width: 670px) { 
+@media only screen and (max-height: 400px), (min-height: 352px) { 
   .pagetop h1 {
     font-size: calc(3rem + 0.4vw);
   }
