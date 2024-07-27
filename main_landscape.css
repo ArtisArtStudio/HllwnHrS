@@ -69,7 +69,7 @@ text-shadow: 4px 6px #FFFFFF;
 font-family: "Bona Nova SC", serif;
 color: #000000 !important;
 font-style: normal;
-font-size:5vmin;
+font-size: calc(1rem + 1.5vw);
 text-align: right;
 font-weight: 200;
 } 
@@ -78,7 +78,7 @@ font-weight: 200;
   display:inline;
   font-weight: 400;
   color: #000000;
-  font-size: 3vmin;
+  font-size: calc(0.5rem + 0.70vw);
   text-align: right;
   /* position: absolute;
   right: 50%;
@@ -139,7 +139,7 @@ td#or {
   -o-transform: translateY(-50%);
   transform: translateY(-50%);
   /* background-color: #FFFFFF; */
-  top: 55%;
+  top: 60%;
   left: 0%;
   border-radius: 5%;
 }
@@ -157,7 +157,7 @@ td#or {
   }
   #scratcher-box {
     scale: 0.95;
-    top: 50%;
+    top: 55%;
   }
   #t1
   {
@@ -169,8 +169,8 @@ td#or {
 
   }
 }
-@media (min-height: 360px) and  (min-width: 671px) { 
-  .pagetop h1 {
+@media (min-height: 360px) and (min-width: 671px) { 
+  /* .pagetop h1 {
     font-size: calc(5rem + 1vw);
   }
   .pagetop h4 {
@@ -178,7 +178,7 @@ td#or {
   }
   .pagetop h3 {
     font-size: calc(1rem + 1.5vw);
-  }
+  } */
   #t1
   {
     width: calc(50% - 10px);
