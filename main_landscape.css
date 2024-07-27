@@ -147,17 +147,17 @@ td#or {
 
 @media only screen and (max-height: 400px) and (min-height: 352px) and (max-width: 670px) { 
   .pagetop h1 {
-    font-size: calc(3rem + 0.55vw);
+    font-size: calc(3rem + 0.4vw);
   }
   .pagetop h4 {
     font-size: calc(0.5rem + 0.70vw);
   }
   .pagetop h3 {
-    font-size: calc(0.7rem + 1.5vw);
+    font-size: calc(0.7rem + 1vw);
   }
   #scratcher-box {
-    scale: 0.95;
-    top: 50%;
+    scale: 0.8;
+    top: 40%;
     left:0%;
   }
   #t1
@@ -184,7 +184,7 @@ td#or {
   }
   #scratcher-box {
     scale: 0.7;
-    top:40% ;
+    top:30% ;
     left: -5%;
   } 
   #t1
@@ -199,7 +199,7 @@ td#or {
 }
 @media (min-height: 360px), (min-width: 671px) { 
   .pagetop h1 {
-    font-size: calc(5rem + 1vw);
+    font-size: calc(4rem + 1vw);
   }
   .pagetop h4 {
     font-size: calc(0.5rem + 0.70vw);
@@ -216,7 +216,7 @@ td#or {
 
   }
   #scratcher-box {
-    scale: 0.8;
+    scale: 0.95;
     top: 50%;
     left: 5%;
   }
