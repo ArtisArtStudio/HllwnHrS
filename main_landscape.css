@@ -163,7 +163,7 @@ td#or {
 
   }
 }
-@media (min-height: 359px), (min-width: 671px) { 
+@media (min-height: 400px), (min-width: 671px) { 
   .pagetop h1 {
     font-size: calc(3rem + 1vw);
   }
@@ -186,7 +186,7 @@ td#or {
 @media (max-height:321px), (max-width:620){ 
   
   .pagetop h1 {
-    font-size: calc(2rem + 0.55vw);
+    font-size: calc(3rem + 0.55vw);
   }
   .pagetop h4 {
     font-size: calc(0.5rem + 0.55vw);
@@ -209,15 +209,14 @@ td#or {
 
   }
 }
-@media  (max-height:351px) and (min-height:319){ 
+/* @media (max-height:351px) and (min-height:319){ 
   
   #scratcher-box {
-    scale: 0.7;
+    scale: 0.9;
     top: 50%;
-    left:-5%;
   }
   .pagetop h1 {
-    font-size: calc(2rem + 0.55vw);
+    font-size: calc(3rem + 0.55vw);
   }
   #t1
   {
@@ -228,7 +227,7 @@ td#or {
     width: calc(45% - 10px);
 
   }
-}
+} */
 
 
 table { 
