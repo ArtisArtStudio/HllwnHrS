@@ -153,12 +153,12 @@ td#or {
     font-size: calc(0.5rem + 0.70vw);
   }
   .pagetop h3 {
-    font-size: calc(0.7rem + 1vw);
+    font-size: calc(0.7rem + 0.7vw);
   }
   #scratcher-box {
     scale: 0.8;
     top: 40%;
-    left:0%;
+    left:-5%;
   }
   #t1
   {
@@ -218,7 +218,7 @@ td#or {
   #scratcher-box {
     scale: 0.95;
     top: 50%;
-    left: 5%;
+    left: 0%;
   }
 }
 /* @media (max-height:351px) and (min-height:319){ 
