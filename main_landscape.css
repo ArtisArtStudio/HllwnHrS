@@ -141,7 +141,7 @@ td#or {
 
 @media only screen and (max-height: 400px), (min-height: 352px) and (max-width: 670px) { 
   .pagetop h1 {
-    font-size: calc(5rem + 0.55vw);
+    font-size: calc(3rem + 0.55vw);
   }
   .pagetop h4 {
     font-size: calc(0.5rem + 0.70vw);
@@ -165,7 +165,7 @@ td#or {
 }
 @media (min-height: 400px), (min-width: 671px) { 
   .pagetop h1 {
-    font-size: calc(3rem + 1vw);
+    font-size: calc(5rem + 1vw);
   }
   .pagetop h4 {
     font-size: calc(0.5rem + 0.70vw);
