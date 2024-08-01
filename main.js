@@ -174,7 +174,6 @@ var pct =new Array(9);
             });
 
 
-
             // keep going until we are out of time
             if (Date.now() < end) {
                 requestAnimationFrame(frame);
@@ -184,7 +183,6 @@ var pct =new Array(9);
             $("#resetbutton").show();
 
         }());
-
               
      };
     
