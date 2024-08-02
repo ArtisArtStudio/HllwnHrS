@@ -325,7 +325,7 @@ var pct =new Array(9);
     
         // create new scratchers
         var scratchers = new Array(9);
-        rnd = randomInRangeint(1,10);
+        rnd = randomInRangeint(1,9);
         if (rnd>8) {
             rnd=8;   
         }
